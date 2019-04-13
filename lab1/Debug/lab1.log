@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Master\02_semester\C++\Labs\Lab1\Lab 1\lab1\Source.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : D:\Master\02_semester\C++\Labs\Lab1\Lab 1\Debug\lab1.exe not found or not built by the last incremental link; performing full link
+  lab1.vcxproj -> D:\Master\02_semester\C++\Labs\Lab1\Lab 1\Debug\lab1.exe
